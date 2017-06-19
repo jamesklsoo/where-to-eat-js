@@ -45,7 +45,7 @@ function addRestaurantListener(){
   startBtn = document.getElementById('start-random-button');
   
   // Replace 'functionName' with the name of the function that you have written
-  startBtn.addEventListener("click", getRandRestaurant)
+  startBtn.addEventListener("click", getRandRestaurant);
 
   getBtn = document.getElementById('get-restaurant-button');
   

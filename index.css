@@ -18,7 +18,7 @@ h2 {
 #restaurant {
 	text-align: center;
 	padding-top: 10px;
-	color: red;
+	color: blue;
 	font-size: 1.5em;
 }
 
@@ -29,4 +29,8 @@ h2 {
 button {
 	display: table;
 	margin: 20px auto;
+}
+
+body {
+	background: url(http://www.saga.co.uk/contentlibrary/saga/publishing/verticals/health-and-wellbeing/diet-and-nutrition/fruit-and-veg/colourful-healthy-food.jpg);
 }
